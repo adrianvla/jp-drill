@@ -1,6 +1,7 @@
 # JP-drill
 #### Forked from [https://github.com/LandonJPGinn/jp-verb-quiz](https://github.com/LandonJPGinn/jp-verb-quiz)
 <img width="1582" alt="Screenshot 2024-08-03 at 23 33 30" src="https://github.com/user-attachments/assets/7a031d84-a0c7-43fd-ac0e-525f31f63ee0">
+
 # Added features:
 #### Long play
 #### Newer CSS design
